@@ -9,5 +9,6 @@
 python3.14 arhivator.py compress <source> <archive.zst> -b  
 или
 python3.14 arhivator.py extract <archive.zst> <source> -b  
+```   
 
-![результат вывода](./result.png)
+![результат вывода](result.png)
