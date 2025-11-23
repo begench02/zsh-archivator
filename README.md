@@ -11,4 +11,14 @@ python3.14 arhivator.py compress <source> <archive.zst> -b
 python3.14 arhivator.py extract <archive.zst> <source> -b  
 ```   
 
-![результат вывода](result.png)
+- Сжатие файла
+![Сжатие файла](compress-file.png)
+
+- Распаковка файла
+![Распаковка файла](extract-file.png)
+
+- Архивация папки
+![Архивация папки](compress-folder.png)
+
+- Распаковка папки
+![Распаковка папки](extract-folder.png)
